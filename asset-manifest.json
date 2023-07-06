@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nomishpriv.github.io/pdas/static/css/main.53bcab0a.css",
+    "main.js": "/nomishpriv.github.io/pdas/static/js/main.2b885817.js",
+    "static/media/siri.png": "/nomishpriv.github.io/pdas/static/media/siri.e6a70a555204b3a1f6f0.png",
+    "index.html": "/nomishpriv.github.io/pdas/index.html",
+    "main.53bcab0a.css.map": "/nomishpriv.github.io/pdas/static/css/main.53bcab0a.css.map",
+    "main.2b885817.js.map": "/nomishpriv.github.io/pdas/static/js/main.2b885817.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53bcab0a.css",
+    "static/js/main.2b885817.js"
+  ]
+}
